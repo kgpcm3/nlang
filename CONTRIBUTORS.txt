@@ -1,0 +1,12 @@
+List of Nlang Contributors
+==========================
+
+This file lists the individuals who have contributed to the source code of the
+Nlang compiler.
+
+1) kg/cm³ (kgpcm3) <kgpcm3@gmail.com> <https://github.com/kgpcm3>
+
+Copyright Holders
+=================
+
+kg/cm³ and The Nlang Contribution
